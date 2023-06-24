@@ -1,5 +1,5 @@
 # Flight Simulator
- The program is intended to generate a realistic picture of the earth and simulate light reflection angles using a directional light source. The program employs advanced graphics techniques to precisely show how light interacts with the earth’s surface, resulting in a realistic and dynamic visual experience.
+The project involves creating an action-packed scene with flying planes, dynamic camera movements, and procedural generated terrain. The key focus is on setting up curved flight paths using quaternions and splines, ensuring accurate plane rotations, and incorporating various maneuvers like barrel rolls and screws.
  
  ![](https://github.com/GelzoneXUnsas/Flight-Simulator/blob/main/resources/cover.png)
 
